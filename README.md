@@ -41,3 +41,5 @@ cd Context-useState-nextJS-master
 npm install
 npm run dev
 ```
+
+![Texto alternativo](/src/img/screen-placar.PNG)
